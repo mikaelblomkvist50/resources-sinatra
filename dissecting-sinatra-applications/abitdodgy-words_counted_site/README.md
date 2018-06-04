@@ -1,5 +1,4 @@
-https://github.com/abitdodgy/words_counted_site
-
+https://github.com/marcgarreau/clonewars_uncubed
 😴 =  No stress don't read it.
 
 🤔✅ = Achieved commit comprehension.
@@ -16,12 +15,35 @@ https://github.com/abitdodgy/words_counted_site
 
 # Commit 1 ~ 10
 
-# Commit 1 ~ 10
 
-* [abitdodgy/words_counted_site 1st Commit](https://github.com/abitdodgy/words_counted_site/tree/347130900fa81ff7c73acccc22a2a26472caab0a) |
+* [marcgarreau/clonewars_uncubed 1st Commit]() |
 1st commit dissecting
   * 🤔✅
 
-* [abitdodgy/words_counted_site 2nd Commit](https://github.com/abitdodgy/words_counted_site/tree/3c42407d58a7749ca06a52ba1c70330b17d3c28f) |
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
 2nd commit dissecting
-  * 🤔✅
+  *
+
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
+2nd commit dissecting
+  *
+
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
+2nd commit dissecting
+  *
+
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
+2nd commit dissecting
+  *
+
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
+2nd commit dissecting
+  *
+
+* [marcgarreau/clonewars_uncubed 2nd Commit]() |
+2nd commit dissecting
+  *
+
+* [marcgarreau/clonewars_uncubed 8th Commit](https://github.com/marcgarreau/clonewars_uncubed/tree/c38a0130ac0674b2064ec7baed40e097488eb13d) |
+8th commit dissecting
+  *
